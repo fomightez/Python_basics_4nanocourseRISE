@@ -4,7 +4,7 @@
 
 Python basics continued for Upstate Medical Spring 2020 nanocourse, **WITH SLIDESHOW ABILITY ADDED**.
 
-If you aren't the instructor for the nanocourse, you most likely want [here](https://github.com/fomightez/Python_basics_4nanocourse). That launches JupyterLab for working with a less cluttered tool bar above the notebook. The addition of the slideshow adds unnecessary clutter to sessionad launched from here.
+If you aren't the instructor for the nanocourse, you most likely want [here](https://github.com/fomightez/Python_basics_4nanocourse). That launches JupyterLab for working with a nicer interface. This launches into classic notebook mode to show the slideshow content as a slideshow. The addition of the slideshow adds unnecessary clutter to sessions launched from here in classic notebook mode. The same content is in both.
 
 Continues from [here](https://github.com/fomightez/Python_basics_on_PDB_file)
 
@@ -19,7 +19,7 @@ Needed?
 
 ## Technical details
 
-RISE slideshows only works in the classic notebook mode. Therefore, upon launch , you need to **SWITCH** to classic notebook mode **BUT INSTRUCT LEARNERS NOT TO BOTHER**. The icon that siwtches from the notebook to the RISE slideshow mode looks like a bar chart. An time you are in the slideshow mode you can press the 'X' in the upper left to return to the notebook. 
+RISE slideshows only works in the classic notebook mode. Therefore, upon launch , you'll see you are in classic notebook mode. The icon that siwtches from the notebook to the RISE slideshow mode looks like a bar chart. An time you are in the slideshow mode you can press the 'X' in the upper left to return to the notebook. 
 
 You can switch to JupyterLab interface by editing the URL. The easiest way from the notebook view is to edit the URL so `notebooks` and any text with the name of the notebook after that is replaced with the text `lab`. Press return after that edit and the interface will change. Switching back from JupyterLab to the classic interface where RISE works is as easy as selecting above the from the main  menu: `Help` > `Launch Classic Notebook`.
 

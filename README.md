@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/Python_basics_4nanocourseRISE/master?urlpath=lab%2Ftree%2Findex.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/Python_basics_4nanocourseRISE/master?filepath=Untitled.ipynb)
 
 # Python_basics_4nanocourseRISE
 
@@ -30,12 +30,7 @@ Themes for the slideshow are controlled for RISE as described [here](https://ris
 
 -----
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/Python_basics_4nanocourseRISE/master?urlpath=lab%2Ftree%2Findex.ipynb)
-
-
-
-
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/Python_basics_4nanocourseRISE/master?filepath=Untitled.ipynb)
 
 
 

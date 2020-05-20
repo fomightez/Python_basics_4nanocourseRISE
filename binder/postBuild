@@ -18,6 +18,7 @@ conda install -c conda-forge xeus-python=0.6.12 ptvsd
 # install the debugger in postBuild and not `environment.yml` to 
 # avoid breaking jupyter-offlinenotebook
 jupyter labextension install @jupyterlab/debugger
+jupyter labextension install @jupyterlab/toc #include convenient Table of Contents extension
 
 # add RISE extension
 python -m pip install RISE

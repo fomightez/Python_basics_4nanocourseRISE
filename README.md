@@ -23,7 +23,7 @@ RISE slideshows only works in the classic notebook mode. Therefore, upon launch 
 
 You can switch to JupyterLab interface by editing the URL. The easiest way from the notebook view is to edit the URL so `notebooks` and any text with the name of the notebook after that is replaced with the text `lab`. Press return after that edit and the interface will change. Switching back from JupyterLab to the classic interface where RISE works is as easy as selecting above the from the main  menu: `Help` > `Launch Classic Notebook`.
 
-Based on [this repo](https://github.com/fomightez/BVCN-Jupyter_rise) combining [the jupyter-offlinenotebook extension to enable saving notebooks to local-storage](https://github.com/manics/jupyter-offlinenotebook) and [the JupyterLab Visual Debugger](https://github.com/jupyterlab/debugger), plus with [Jupyter RISE Slideshow Presentation](https://github.com/binder-examples/jupyter-rise) ability added. 
+Based on [this repo](https://github.com/fomightez/BVCN-Jupyter_rise) combining [the jupyter-offlinenotebook extension to enable saving notebooks to local-storage](https://github.com/manics/jupyter-offlinenotebook) and [the JupyterLab Visual Debugger](https://github.com/jupyterlab/debugger), plus with [Jupyter RISE Slideshow Presentation](https://github.com/binder-examples/jupyter-rise) ability added. The Table of Contents extension has also been added, see [here](https://github.com/jupyterlab/jupyterlab-toc#jupyterlab-toc).
 
 Themes for the slideshow are controlled for RISE as described [here](https://rise.readthedocs.io/en/stable/customize.html) or [here](https://github.com/damianavila/RISE/blob/master/doc/customize.md). 
 

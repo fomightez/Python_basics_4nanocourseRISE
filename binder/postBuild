@@ -22,6 +22,12 @@ jupyter labextension install @jupyterlab/toc #include convenient Table of Conten
 
 # add RISE extension
 python -m pip install RISE
+# add extra modules needed for examples
+python -m pip install biopnadas
+python -m pip install pandas
+python -m pip install numpy
+python -m pip install biopython
+python -m pip install seaborn
 
 # repo2docker copies this repo into $HOME which means jupyter labextension
 # picks up hidden dot files and runs into problems so install from a
@@ -32,6 +38,7 @@ cp -a * "$SRCDIR"
 cd "$SRCDIR"
 python -m pip install .
 jupyter labextension link --debug
+
 
 
 # clean up a bit since may be using the starting directory to work

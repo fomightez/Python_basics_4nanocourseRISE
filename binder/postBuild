@@ -23,8 +23,8 @@ jupyter labextension install @jupyterlab/toc #include convenient Table of Conten
 # add RISE extension
 python -m pip install RISE
 # add extra modules needed for examples
-python -m pip install biopnadas
 python -m pip install pandas
+python -m pip install biopandas
 python -m pip install numpy
 python -m pip install biopython
 python -m pip install seaborn

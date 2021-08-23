@@ -1,0 +1,6 @@
+rise
+pandas
+biopandas
+numpy
+biopython
+seaborn
